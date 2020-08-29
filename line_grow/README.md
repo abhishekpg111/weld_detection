@@ -28,7 +28,7 @@ Save the image of the weld joint
 
 __Step 3: Run the python program__
 
-Run the python programm butt_weld.py.
+Run the python programm functions.py.
 
 It will promt to enter the name of the image. 
 
